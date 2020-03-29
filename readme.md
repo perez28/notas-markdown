@@ -27,7 +27,7 @@ Texto tachado
 Listas Desordenadas
 
     * jonan
-    * este es un subiten se se hace con una tabulacion y *
+      * este es un subiten se se hace con una tabulacion y *
     * Jwssica
     *  estella
 
